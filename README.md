@@ -1,2 +1,2 @@
 # MakeMore-DivingDeepIntoBackProp
-MakeMore - Manually calculating backpop for better understanding
+MakeMore - Manually doing backpop for better understanding
